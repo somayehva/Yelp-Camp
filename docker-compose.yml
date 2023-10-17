@@ -1,0 +1,16 @@
+version: '3'
+services:
+  yelp_camp:
+    build: .
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongo
+    container_name: yelp_camp_container
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data:/data/db # Mount a local directory to store MongoDB data
+    container_name: mongo_container
