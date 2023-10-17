@@ -4,6 +4,10 @@ YelpCamp is a full-stack web application that allows users to explore, review, a
 
 ![yelp_camp](https://github.com/somayehva/yelp-camp/blob/main/yelp-camp.png)
 
+## Demo
+
+You can access the live demo of Yelp-Camp [here](link-to-your-live-demo).
+
 
 ## Features
 
