@@ -1,6 +1,6 @@
-# YelpCamp
+# Yelp Camp
 
-YelpCamp is a full-stack web application that allows users to explore, review, and share their campgrounds. With an emphasis on user interaction and seamless functionality, it provides a comprehensive platform for camping enthusiasts.
+Yelp Camp is a full-stack CRUD app that allows users to explore, review, and share their campgrounds. With an emphasis on user interaction and seamless functionality, it provides a comprehensive platform for camping enthusiasts.
 
 ![yelp_camp](https://github.com/somayehva/yelp-camp/blob/main/yelp-camp.png)
 
