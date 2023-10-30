@@ -6,7 +6,7 @@ Yelp Camp is a full-stack CRUD app that allows users to explore, review, and sha
 
 ## Demo
 
-You can access the live demo of Yelp-Camp [here](link-to-your-live-demo).
+You can access the live demo of Yelp-Camp [here](http://yelpcamp.somayeh.me/).
 
 
 ## Features
